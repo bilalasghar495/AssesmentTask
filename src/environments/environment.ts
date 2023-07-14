@@ -3,7 +3,9 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  apiUrl: 'http://localhost:5000',
+  imageUrl: 'E:Angular-Projects/Assesment/AssesmentTask/src/assets',
 };
 
 /*
